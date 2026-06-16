@@ -112,6 +112,7 @@ copy .env.example .env
 Open `.env` and fill in your real values.
 
 ## Environment Variables
+### first create the .env file in the app folder
 
 Example:
 
