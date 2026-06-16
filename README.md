@@ -333,8 +333,8 @@ POST /api/v1/rag/chat
 
 ```json
 {
-  "name": "Shaheer",
-  "email": "shaheer@example.com",
+  "name": "user",
+  "email": "user@example.com",
   "password": "password123"
 }
 ```
@@ -343,7 +343,7 @@ POST /api/v1/rag/chat
 
 ```json
 {
-  "email": "shaheer@example.com",
+  "email": "user@example.com",
   "password": "password123"
 }
 ```
@@ -464,7 +464,7 @@ This creates semantic vectors for document chunks using Ollama model `nomic-embe
 Run Uvicorn from the backend root folder:
 
 ```powershell
-cd C:\Users\SHAHEER\Desktop\FYP-Module\Backend
+cd enter-the-path-of-your-cloned-repo
 python -m uvicorn app.main:app --reload
 ```
 
