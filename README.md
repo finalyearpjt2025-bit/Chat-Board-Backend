@@ -66,7 +66,7 @@ Backend/
 ### 1. Clone Repository
 
 ```powershell
-git clone <your-repository-url>
+git clone https://github.com/finalyearpjt2025-bit/Chat-Board-Backend
 cd Backend
 ```
 
